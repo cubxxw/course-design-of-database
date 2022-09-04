@@ -1,3 +1,19 @@
+# 数据库管理系统 -- mysql+python+hash
+----
+<p align='center'>
+<a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank"><img src="https://img.shields.io/badge/linkedin-xiongxinwei-yellowgreen?logo=linkedin"></a>
+<a href="https://twitter.com/xxw3293172751" target="_blank"><img src="https://img.shields.io/badge/twitter-%40xxw3293172751-informational?logo=twitter"></a>
+<a href="https://www.zhihu.com/people/3293172751" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%93%BE%E5%AD%A6%E8%80%85%E7%A4%BE%E5%8C%BA-blue?logo=zhihu"></a>
+<a href="https://s2.loli.net/2022/07/05/sQHuozItvWg1heA.jpg" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-smile-brightgreen?logo=wechat"></a>
+<a href="https://space.bilibili.com/14089380" target="_blank"><img src="https://img.shields.io/badge/b%E7%AB%99-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-red?logo=bilibili"></a>
+</p>
+<p align='center'>
+<a href="https://weibo.com/u/6248930985" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-critical?style=social&logo=Sina%20Weibo"></a>
+<a href="https://github.com/3293172751" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
+</p>
+
+---
+
 * [<strong>高校学籍管理系统</strong>](#高校学籍管理系统)
 * [一、数据库课程设计要求与目的](#一数据库课程设计要求与目的)
 * [二、需求分析](#二需求分析)
@@ -687,19 +703,3 @@ F/f查询系统：
 
 在本学期的数据库设计中，通过对高校的学籍管理系统的设计，我学习到独立完成作业的重要性，锻炼了在编写实际运用数据库的实现，深刻感受到计算机学习的实用性和未来工作的巨大信息，但是由于学习效果不佳，在一些问题的处理和考虑的方面存在很大的缺陷和漏洞，希望在进一步的学习中能更好处理好相关问题。这次课题设计不能堪称完美，甚至来说还很不健全，但我会在以后的时间里去尽量的完善它，不断的对它进行升级和完善，解决系统可能会出现的。
 
-
-
-----
-
-
-
-### [**文件地址** http://xxw.nsddd.top/\#s/7o0lHPdQ](http:\xxw.nsddd.top\#s/7o0lHPdQ)
-
-### [**项目代码** http://xxw.nsddd.top/\#s/7pModeuw](http://xxw.nsddd.top/#s/7pModeuw)
-
-
-
-<img src="https://s2.loli.net/2022/01/03/SkKrVNuhBdbcMiy.png" alt="image-20220103133500092" style="zoom:80%;" /><img src="https://s2.loli.net/2022/01/03/Lzs4dJpnOmkTSGW.png" alt="image-20220103133510864" style="zoom: 80%;" />
-
-### **联系我：**
-  **邮箱：3293172751nss@gmail.com**
