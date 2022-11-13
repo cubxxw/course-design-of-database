@@ -1,5 +1,8 @@
 # 数据库管理系统 -- mysql+python+hash
-----
+
+<br>
+
+<details><summary><b>💡 关于（先看❗）</b></summary>
 <p align='center'>
 <a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank"><img src="https://img.shields.io/badge/linkedin-xiongxinwei-yellowgreen?logo=linkedin"></a>
 <a href="https://twitter.com/xxw3293172751" target="_blank"><img src="https://img.shields.io/badge/twitter-%40xxw3293172751-informational?logo=twitter"></a>
@@ -11,16 +14,19 @@
 <a href="https://weibo.com/u/6248930985" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-critical?style=social&logo=Sina%20Weibo"></a>
 <a href="https://github.com/3293172751" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
 </p>
+</details>
 
----
+<br>
 
 # 一、数据库课程设计要求与目的
 
 (1) 目的
 
-1.通过数据库课程设计，来进一加深对数据库开发与应用的了解，掌握sql语句与sql服务的要领，从而达到让我们实践的目的。
+1. 通过数据库课程设计，来进一加深对数据库开发与应用的了解，掌握sql语句与sql服务的要领，从而达到让我们实践的目的。
 
-2.首先查阅书籍可以知道数据库课程设计数据库系统开发步骤的要领有：需求分析，概念设计，逻辑结构设计，物理结构设计，数据库实施阶段，由此我们可以展开以下高校学籍管理系统的设计。
+2. 首先查阅书籍可以知道数据库课程设计数据库系统开发步骤的要领有：需求分析，概念设计，逻辑结构设计，物理结构设计，数据库实施阶段，由此我们可以展开以下高校学籍管理系统的设计。
+
+<br>
 
 (2) 功能要求
 
@@ -48,11 +54,9 @@
 
 学籍管理系统的功能需求包括管理员、学生和教师对功能的需求的三大部分:
 
-1.  **管理员对功能的需求:**管理员权限最大，可以对学生、教师、课程进行管理，包括对学生学籍信息的增删改查，对教师信息的增删改查，以及对课程信息的增删改查等。
+**1. 管理员对功能的需求:** 管理员权限最大，可以对学生、教师、课程进行管理，包括对学生学籍信息的增删改查，对教师信息的增删改查，以及对课程信息的增删改查等。
 
-**2.学生对功能的需求:**学生只是利用此系统修改自己的登录密码，查
-
-询自己的学籍信息，查询课程信息，进行选课，查询成绩。
+**2. 学生对功能的需求:** 学生只是利用此系统修改自己的登录密码，查询自己的学籍信息，查询课程信息，进行选课，查询成绩。
 
 **3.教师对功能的需求:**
 
