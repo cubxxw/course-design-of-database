@@ -1,0 +1,19 @@
+{
+  "name": "course-design-of-database",
+  "version": "1.0.0",
+  "description": "course-design-of-database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubxxw/course-design-of-database.git"
+  },
+  "author": "xiongxinwei (cubxxw)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cubxxw/course-design-of-database/issues"
+  },
+  "homepage": "https://github.com/cubxxw/course-design-of-database#readme"
+}

@@ -1,1 +1,0 @@
-# course-design-of-database

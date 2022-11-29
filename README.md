@@ -17,7 +17,6 @@
 <a href="https://github.com/3293172751" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
 <a href="http://nsddd.top" target="_blank"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%40xiongxinwei-blue?style=social&logo=Octopus%20Deploy"></a>
 </p>
-  
 <b>如果你需要学习：</b>
  🈺 存在`GitHub`上浏览效果不佳，[Cub链学社](https://github.com/C-UB)推出`CubDoc`文档形式，使用`vuejs`渲染 。使用国内的服务器搭建（速度嘎快:bullettrain_front:) 。目前支持以下的项目🗃️：
 
@@ -26,7 +25,7 @@
 + [x] [:speedboat: docker & k8s & 云原生](https://docker.nsddd.top)
 
 <br>
-  
+
 </details>
 
 <br>
@@ -678,11 +677,7 @@ F/f查询系统：
 
 查询和录入学生信息：202006010300
 
-![image-20220103134811910](https://s2.loli.net/2022/01/03/wuGyJhrcn27kFWl.png)
 
-奖惩界面：
-
-![image-20220103132631331](https://s2.loli.net/2022/01/03/ZjaKVFChl48EAT6.png)
 
 # 六、结论
 
@@ -690,3 +685,15 @@ F/f查询系统：
 
 在本学期的数据库设计中，通过对高校的学籍管理系统的设计，我学习到独立完成作业的重要性，锻炼了在编写实际运用数据库的实现，深刻感受到计算机学习的实用性和未来工作的巨大信息，但是由于学习效果不佳，在一些问题的处理和考虑的方面存在很大的缺陷和漏洞，希望在进一步的学习中能更好处理好相关问题。这次课题设计不能堪称完美，甚至来说还很不健全，但我会在以后的时间里去尽量的完善它，不断的对它进行升级和完善，解决系统可能会出现的。
 
+
+
+## 💡 版权声明 &copy;
+
+[![GitHub license](https://sm.nsddd.top//typora/cs-awesome-Block_Chain?mail:3293172751@qq.com)](http://zh.wikipedia.org/wiki/Wikipedia:CC-by-sa-3.0协议文本)
+
+本书所有内容遵循[CC-BY-SA 3.0协议（署名-相同方式共享）&copy;](http://zh.wikipedia.org/wiki/Wikipedia:CC-by-sa-3.0协议文本) 
+
+
+## License
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F3293172751%2Fcs-awesome-Block_Chain.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F3293172751%2Fcs-awesome-Block_Chain?ref=badge_large)
